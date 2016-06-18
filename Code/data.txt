@@ -1,0 +1,114 @@
+{
+  "response": {
+    "status": "ok", 
+    "orderBy": "relevance", 
+    "pageSize": 10, 
+    "userTier": "developer", 
+    "results": [
+      {
+        "sectionId": "uk-news", 
+        "webTitle": "Police charge Thomas Mair with murder of Jo Cox - as it happened", 
+        "webUrl": "https://www.theguardian.com/uk-news/live/2016/jun/17/jo-cox-death-police-labour-mp-latest-updates", 
+        "sectionName": "UK news", 
+        "apiUrl": "https://content.guardianapis.com/uk-news/live/2016/jun/17/jo-cox-death-police-labour-mp-latest-updates", 
+        "webPublicationDate": "2016-06-18T00:02:53Z", 
+        "type": "liveblog", 
+        "id": "uk-news/live/2016/jun/17/jo-cox-death-police-labour-mp-latest-updates"
+      }, 
+      {
+        "sectionId": "uk-news", 
+        "webTitle": "Jo Cox murder suspect tells court his name is 'death to traitors, freedom for Britain'", 
+        "webUrl": "https://www.theguardian.com/uk-news/2016/jun/18/thomas-mair-charged-with-of-mp-jo-cox", 
+        "sectionName": "UK news", 
+        "apiUrl": "https://content.guardianapis.com/uk-news/2016/jun/18/thomas-mair-charged-with-of-mp-jo-cox", 
+        "webPublicationDate": "2016-06-18T10:07:37Z", 
+        "type": "article", 
+        "id": "uk-news/2016/jun/18/thomas-mair-charged-with-of-mp-jo-cox"
+      }, 
+      {
+        "sectionId": "uk-news", 
+        "webTitle": "Jo Cox murder accused gives name as 'death to traitors, freedom to Britain'", 
+        "webUrl": "https://www.theguardian.com/uk-news/2016/jun/18/jo-cox-murder-suspect-thomas-mair-told-police-he-was-political-activist", 
+        "sectionName": "UK news", 
+        "apiUrl": "https://content.guardianapis.com/uk-news/2016/jun/18/jo-cox-murder-suspect-thomas-mair-told-police-he-was-political-activist", 
+        "webPublicationDate": "2016-06-18T15:12:48Z", 
+        "type": "article", 
+        "id": "uk-news/2016/jun/18/jo-cox-murder-suspect-thomas-mair-told-police-he-was-political-activist"
+      }, 
+      {
+        "sectionId": "technology", 
+        "webTitle": "Vile online abuse against female MPs \u2018needs to be challenged now\u2019", 
+        "webUrl": "https://www.theguardian.com/technology/2016/jun/18/vile-online-abuse-against-women-mps-needs-to-be-challenged-now", 
+        "sectionName": "Technology", 
+        "apiUrl": "https://content.guardianapis.com/technology/2016/jun/18/vile-online-abuse-against-women-mps-needs-to-be-challenged-now", 
+        "webPublicationDate": "2016-06-18T07:00:04Z", 
+        "type": "article", 
+        "id": "technology/2016/jun/18/vile-online-abuse-against-women-mps-needs-to-be-challenged-now"
+      }, 
+      {
+        "sectionId": "childrens-books-site", 
+        "webTitle": "V for Violet by Alison Rattle \u2013 review", 
+        "webUrl": "https://www.theguardian.com/childrens-books-site/2016/jun/18/v-for-violet-alison-rattle-review", 
+        "sectionName": "Children's books", 
+        "apiUrl": "https://content.guardianapis.com/childrens-books-site/2016/jun/18/v-for-violet-alison-rattle-review", 
+        "webPublicationDate": "2016-06-18T14:00:13Z", 
+        "type": "article", 
+        "id": "childrens-books-site/2016/jun/18/v-for-violet-alison-rattle-review"
+      }, 
+      {
+        "sectionId": "artanddesign", 
+        "webTitle": "Artist makes statement about gun violence in skies above American cities", 
+        "webUrl": "https://www.theguardian.com/artanddesign/2016/jun/18/artist-gun-violence-sky-cj-hendry", 
+        "sectionName": "Art and design", 
+        "apiUrl": "https://content.guardianapis.com/artanddesign/2016/jun/18/artist-gun-violence-sky-cj-hendry", 
+        "webPublicationDate": "2016-06-18T19:58:34Z", 
+        "type": "article", 
+        "id": "artanddesign/2016/jun/18/artist-gun-violence-sky-cj-hendry"
+      }, 
+      {
+        "sectionId": "world", 
+        "webTitle": "Putin clarifies Trump comment and says America is the world's 'only superpower'", 
+        "webUrl": "https://www.theguardian.com/world/2016/jun/18/vladimir-putin-donald-trump-striking-america-superpower", 
+        "sectionName": "World news", 
+        "apiUrl": "https://content.guardianapis.com/world/2016/jun/18/vladimir-putin-donald-trump-striking-america-superpower", 
+        "webPublicationDate": "2016-06-18T16:49:09Z", 
+        "type": "article", 
+        "id": "world/2016/jun/18/vladimir-putin-donald-trump-striking-america-superpower"
+      }, 
+      {
+        "sectionId": "politics", 
+        "webTitle": "Emmanuel Macron: Brexit would turn UK into tiny trading outpost", 
+        "webUrl": "https://www.theguardian.com/politics/2016/jun/18/emmemmanuel-macron-french-economy-minister-brexit-eu-referendum-guernseyfication", 
+        "sectionName": "Politics", 
+        "apiUrl": "https://content.guardianapis.com/politics/2016/jun/18/emmemmanuel-macron-french-economy-minister-brexit-eu-referendum-guernseyfication", 
+        "webPublicationDate": "2016-06-18T08:30:06Z", 
+        "type": "article", 
+        "id": "politics/2016/jun/18/emmemmanuel-macron-french-economy-minister-brexit-eu-referendum-guernseyfication"
+      }, 
+      {
+        "sectionId": "politics", 
+        "webTitle": "EU referendum voters unconvinced by scare tactics: \u2018I just want to do what\u2019s right\u2019", 
+        "webUrl": "https://www.theguardian.com/politics/2016/jun/18/eu-referendum-voters-scare-leave-remain", 
+        "sectionName": "Politics", 
+        "apiUrl": "https://content.guardianapis.com/politics/2016/jun/18/eu-referendum-voters-scare-leave-remain", 
+        "webPublicationDate": "2016-06-18T18:52:20Z", 
+        "type": "article", 
+        "id": "politics/2016/jun/18/eu-referendum-voters-scare-leave-remain"
+      }, 
+      {
+        "sectionId": "politics", 
+        "webTitle": "What is Brexit and why does it matter? The EU referendum guide for Americans", 
+        "webUrl": "https://www.theguardian.com/politics/2016/jun/18/eu-referendum-brexit-explainer-for-americans", 
+        "sectionName": "Politics", 
+        "apiUrl": "https://content.guardianapis.com/politics/2016/jun/18/eu-referendum-brexit-explainer-for-americans", 
+        "webPublicationDate": "2016-06-18T10:00:08Z", 
+        "type": "article", 
+        "id": "politics/2016/jun/18/eu-referendum-brexit-explainer-for-americans"
+      }
+    ], 
+    "startIndex": 1, 
+    "currentPage": 1, 
+    "total": 16, 
+    "pages": 2
+  }
+}
