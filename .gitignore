@@ -1,2 +1,4 @@
 secrets.py
 *.pyc
+cred_twitt.py
+cred_guardian.txt
